@@ -1,2 +1,2 @@
 # TIC TAC TOE
-A simple project using HTML CSS and JavaScript
+A simple project using HTML CSS and JavaScript.
